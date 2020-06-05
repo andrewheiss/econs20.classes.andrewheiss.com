@@ -1,0 +1,162 @@
+lessons:
+  - title: 'Capitalism, markets, and public policy'
+    header: True
+
+  - title: '<span class="content-title">Capitalism and measurement</span>'
+    session: "Session 1"
+    date: "June 8–June 12"
+    content: "01-content"
+    bg: 1
+
+  - title: '<span class="content-title">Governments and institutions</span>'
+    session: "Session 2"
+    content: "02-content"
+    bg: 1
+
+  - title: 'Problem set 1 due'
+    date: "June 12"
+    assignment: "01-problem-set"
+    bg: 1
+
+  - title: 'Weekly report 1 due'
+    date: "June 15"
+    assignment: "01-weekly-report"
+    bg: 1
+    bottomborder: True
+ 
+  - title: '<span class="content-title">Social interactions and economic outcomes</span>'
+    session: "Session 3"
+    date: "June 15–19"
+    content: "03-content"
+    bg: 2
+
+  - title: '<span class="content-title">Fairness and efficiency</span>'
+    session: "Session 4"
+    content: "04-content"
+    bg: 2
+
+  - title: 'Problem set 2 due'
+    date: "June 19"
+    assignment: "02-problem-set"
+    bg: 2
+
+  - title: 'Weekly report 2 due'
+    date: "June 22"
+    assignment: "02-weekly-report"
+    bg: 2
+
+  - title: 'Economic models'
+    header: True
+
+  - title: '<span class="content-title">Work, wellbeing, and scarcity</span>'
+    session: "Sessions 5–6"
+    date: "June 22–26"
+    content: "05-content"
+    bg: 1
+
+  - title: 'Problem set 3 due'
+    date: "June 26"
+    assignment: "03-problem-set"
+    bg: 1
+
+  - title: 'Weekly report 3 due'
+    date: "June 29"
+    assignment: "03-weekly-report"
+    bg: 1
+    bottomborder: True
+   
+  - title: '<span class="content-title">The firm</span>'
+    session: "Sessions 7–8"
+    date: "June 29–July 3"
+    content: "07-content"
+    bg: 2
+
+  - title: 'Problem set 4 due'
+    date: "July 3"
+    assignment: "04-problem-set"
+    bg: 2
+
+  - title: 'Weekly report 4 due'
+    date: "July 6"
+    assignment: "04-weekly-report"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">Firms and markets</span>'
+    session: "Sessions 9–10"
+    date: "July 6–10"
+    content: "09-content"
+    bg: 1
+
+  - title: 'Problem set 5 due'
+    date: "July 10"
+    assignment: "05-problem-set"
+    bg: 1
+
+  - title: 'Weekly report 5 due'
+    date: "July 13"
+    assignment: "05-weekly-report"
+    bg: 1
+  
+  - title: '<i class="fas fa-star"></i> **Exam 1**'
+    date: "July 10–July 17"
+    bg: 3
+
+  - title: 'Market failures and institutions'
+    header: True
+    
+  - title: '<span class="content-title">Institutions, power, and inequality</span>'
+    session: "Session 11"
+    date: "July 13-17"
+    content: "11-content"
+    bg: 1
+
+  - title: '<span class="content-title">Market failures</span>'
+    session: "Session 12"
+    content: "12-content"
+    bg: 1
+
+  - title: 'Problem set 6 due'
+    date: "July 17"
+    assignment: "06-problem-set"
+    bg: 1
+
+  - title: 'Weekly report 6 due'
+    date: "July 20"
+    assignment: "06-weekly-report"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title">When governments go wrong</span>'
+    session: "Session 13"
+    date: "July 20–24"
+    content: "13-content"
+    bg: 2
+
+  - title: '<span class="content-title">Institutional alternatives</span>'
+    session: "Session 14"
+    content: "14-content"
+    bg: 2
+
+  - title: 'Problem set 7 due'
+    date: "July 24"
+    assignment: "07-problem-set"
+    bg: 2
+
+  - title: 'Weekly report 7 due'
+    date: "July 27"
+    assignment: "07-weekly-report"
+    bg: 2
+
+  - title: 'Conclusions'
+    header: True
+
+  - title: '<span class="content-title">Markets, public policy, and public administration</span>'
+    session: "Session 15"
+    date: "July 27"
+    content: "15-content"
+    bg: 1
+
+  - title: '<i class="fas fa-star"></i> **Exam 2**'
+    date: "July 28–August 1"
+    bg: 3

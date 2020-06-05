@@ -1,0 +1,19 @@
+---
+title: "Weekly report 7"
+linktitle: "Weekly report 7"
+date: "2020-07-27"
+due_date: "2020-07-27"
+due_time: "11:59 PM"
+menu:
+  assignment:
+    parent: Weekly reports
+    weight: 7
+type: docs
+weight: 7
+---
+
+Cover **class sessions 13 and 14** in this report.
+
+Review **problem set 6**. You may also want to review problem set 7 on your own or with your group at some, since principles from the problem set will be included in Exam 2.
+
+Remember to follow the [instructions here](/assignment/#weekly-reports-1) and use the [template here](/assignment/weekly-reports/).

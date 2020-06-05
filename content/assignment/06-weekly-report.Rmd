@@ -1,0 +1,19 @@
+---
+title: "Weekly report 6"
+linktitle: "Weekly report 6"
+date: "2020-07-20"
+due_date: "2020-07-20"
+due_time: "11:59 PM"
+menu:
+  assignment:
+    parent: Weekly reports
+    weight: 6
+type: docs
+weight: 6
+---
+
+Cover **class sessions 11 and 12** in this report.
+
+Review **problem set 5**. You may want to review problem set 5 earlier, though, since principles from the problem set will be included in Exam 1.
+
+Remember to follow the [instructions here](/assignment/#weekly-reports-1) and use the [template here](/assignment/weekly-reports/).

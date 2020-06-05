@@ -1,0 +1,19 @@
+---
+title: "Weekly report 3"
+linktitle: "Weekly report 3"
+date: "2020-06-29"
+due_date: "2020-06-29"
+due_time: "11:59 PM"
+menu:
+  assignment:
+    parent: Weekly reports
+    weight: 3
+type: docs
+weight: 3
+---
+
+Cover **class sessions 5 and 6** in this report.
+
+Review **problem set 2**.
+
+Remember to follow the [instructions here](/assignment/#weekly-reports-1) and use the [template here](/assignment/weekly-reports/).

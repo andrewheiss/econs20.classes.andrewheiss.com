@@ -1,0 +1,20 @@
+---
+title: "Problem set 3"
+linktitle: "Problem set 3"
+date: "2020-06-26"
+due_date: "2020-06-26"
+due_time: "11:59 PM"
+output:
+  blogdown::html_page:
+    toc: true
+menu:
+  assignment:
+    parent: Problem sets
+    weight: 3
+type: docs
+weight: 3
+editor_options: 
+  chunk_output_type: console
+---
+
+The questions for this problem set will be posted at least two weeks before the due date.

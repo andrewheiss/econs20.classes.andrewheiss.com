@@ -1,0 +1,38 @@
+---
+title: "Institutional alternatives"
+linktitle: "14: Institutional alternatives"
+date: "2020-07-20"
+start_date: "2020-07-20"
+end_date: "2020-07-24"
+menu:
+  content:
+    parent: Course content
+    weight: 14
+type: docs
+bibliography: "../../static/bib/references.bib"
+csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
+# slides: "02-slides"
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+## Readings
+
+- <i class="far fa-file-pdf"></i> Chapters 1 and 2 in Elinor Ostrom, *Governing the Commons: The Evolution of Institutions for Collective Action* [@Ostrom:1990]
+    - This one is super long and game theoretical. You can skim through lots of it (especially the mathy sections). But it's also pretty foundational to public administration, so it *is* important. Make sure you get the gist of what's happening, but *please* don't strain yourself with all the tiny details. Remember your grad school reading skills—read the introduction and conclusion, look around in the middle for things that look interesting, and make sure you understand the gist of what's going on.
+
+
+## Other useful resources
+
+Links to other resources like YouTube videos, etc. will go here if needed.
+
+
+## Slides
+
+Slides will go here.
+
+
+## Videos
+
+Videos will go here.

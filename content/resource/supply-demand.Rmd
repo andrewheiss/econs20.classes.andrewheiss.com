@@ -1,0 +1,10 @@
+---
+title: Supply, demand, surplus, DWL, and elasticity
+menu:
+  resource:
+    parent: Guides
+type: docs
+weight: 6
+---
+
+Supply, demand, surplus, deadweight loss, and elasticity

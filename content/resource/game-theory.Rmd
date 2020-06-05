@@ -1,0 +1,10 @@
+---
+title: Game theory
+menu:
+  resource:
+    parent: Guides
+type: docs
+weight: 2
+---
+
+How to solve basic game theory games

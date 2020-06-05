@@ -1,0 +1,10 @@
+---
+title: Costs
+menu:
+  resource:
+    parent: Guides
+type: docs
+weight: 5
+---
+
+How to calculate total costs, average costs, marginal costs, etc.

@@ -1,0 +1,42 @@
+---
+title: "Markets, public policy, and public administration"
+linktitle: "15: Markets, public policy, and public administration"
+date: "2020-07-27"
+start_date: "2020-07-27"
+end_date: "2020-07-31"
+menu:
+  content:
+    parent: Course content
+    weight: 15
+type: docs
+bibliography: "../../static/bib/references.bib"
+csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
+# slides: "02-slides"
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+## Readings
+
+***Important***: PDFs of the readings are on iCollege.
+
+- <i class="fas fa-external-link-square-alt"></i> Keira Shae, ["Dear American Taxpayers, Thank You for Saving My Life"](https://bycommonconsent.com/2018/07/04/dear-american-taxpayers-thank-you-for-saving-my-life/)
+- <i class="far fa-file-pdf"></i> Charles E. Lindblom, "The Science of 'Muddling Through'" [@Lindblom:1959]
+- <i class="fas fa-external-link-square-alt"></i> David Bornstein, ["The Dawn of the Evidence-Based Budget,"](https://opinionator.blogs.nytimes.com/2012/05/30/worthy-of-government-funding-prove-it/?pagewanted=all) The New York Times, May 30, 2012
+- <i class="far fa-file-pdf"></i> Esther Duflo, "Policies, Politics: Can Evidence Play a Role in the Fight Against Poverty" [@Duflo:2011]
+
+
+## Other useful resources
+
+Links to other resources like YouTube videos, etc. will go here if needed.
+
+
+## Slides
+
+Slides will go here.
+
+
+## Videos
+
+Videos will go here.

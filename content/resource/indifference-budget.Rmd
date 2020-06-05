@@ -1,0 +1,10 @@
+---
+title: Utility maximization
+menu:
+  resource:
+    parent: Guides
+type: docs
+weight: 3
+---
+
+How to maximize utility with indifference curves and budget lines
