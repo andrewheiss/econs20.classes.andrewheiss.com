@@ -14,7 +14,7 @@ lessons:
     bg: 1
 
   - title: 'Problem set 1 due'
-    date: "June 12"
+    date: "June 15"
     assignment: "01-problem-set"
     bg: 1
 
@@ -36,7 +36,7 @@ lessons:
     bg: 2
 
   - title: 'Problem set 2 due'
-    date: "June 19"
+    date: "June 22"
     assignment: "02-problem-set"
     bg: 2
 
@@ -55,7 +55,7 @@ lessons:
     bg: 1
 
   - title: 'Problem set 3 due'
-    date: "June 26"
+    date: "June 29"
     assignment: "03-problem-set"
     bg: 1
 
@@ -72,7 +72,7 @@ lessons:
     bg: 2
 
   - title: 'Problem set 4 due'
-    date: "July 3"
+    date: "July 6"
     assignment: "04-problem-set"
     bg: 2
 
@@ -89,7 +89,7 @@ lessons:
     bg: 1
 
   - title: 'Problem set 5 due'
-    date: "July 10"
+    date: "July 13"
     assignment: "05-problem-set"
     bg: 1
 
@@ -117,7 +117,7 @@ lessons:
     bg: 1
 
   - title: 'Problem set 6 due'
-    date: "July 17"
+    date: "July 20"
     assignment: "06-problem-set"
     bg: 1
 
@@ -139,7 +139,7 @@ lessons:
     bg: 2
 
   - title: 'Problem set 7 due'
-    date: "July 24"
+    date: "July 27"
     assignment: "07-problem-set"
     bg: 2
 
