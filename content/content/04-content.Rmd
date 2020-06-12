@@ -11,7 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-# slides: "04-slides"
+pdf: /slides/pmap8141_s20_04-slides.pdf
+thumb: /slides/pmap8141_s20_04-slides.png
 output:
   blogdown::html_page:
     toc: true
@@ -36,9 +37,76 @@ Links to other resources like YouTube videos, etc. will go here if needed.
 
 ## Slides
 
-Slides will go here.
+`r blogdown::shortcode("slides")`
 
 
 ## Videos
 
-Videos will go here.
+```{r show-youtube-list, echo=FALSE, results="asis"}
+source(here::here("R", "youtube-playlist.R"))
+
+playlist_id <- "PLS6tnpTr39sHT2tMtBjvShjzU9KNPVWaE"
+
+videos <- tibble::tribble(
+  ~youtube_id, ~title,
+  "lXIluFd_MZ4", "Introduction",
+  "NoCZU3INvFY", "Economic models",
+  "SjVDU6jPPwE", "Pulling policy levers",
+  "doM6HitjGTQ", "Power and efficiency",
+  "OAeSbwp2O2I", "Rawlsian fairness",
+  "nKVLV3U6ga0", "Fairness"
+)
+
+youtube_list(videos, playlist_id)
+```
+
+
+```{cat include=FALSE, eval=FALSE}
+Playlist: https://www.youtube.com/playlist?list=PLS6tnpTr39sHT2tMtBjvShjzU9KNPVWaE
+
+https://youtu.be/lXIluFd_MZ4
+PMAP 8141 • (4) Fairness and efficiency: (0) Introduction
+
+Introduction to the class session on economic efficiency and fairness
+
+Access the slides and other materials at the course website at https://econs20.classes.andrewheiss.com/content/04-content/
+
+
+https://youtu.be/NoCZU3INvFY
+PMAP 8141 • (4) Fairness and efficiency: (1) Economic models
+
+Discussion of why economic models are still useful even though they overly simply the world
+
+Access the slides and other materials at the course website at https://econs20.classes.andrewheiss.com/content/04-content/
+
+  
+https://youtu.be/SjVDU6jPPwE
+PMAP 8141 • (4) Fairness and efficiency: (2) Pulling policy levers
+
+Example of how to change the payoffs in a game to ensure desired policy outcomes
+
+Access the slides and other materials at the course website at https://econs20.classes.andrewheiss.com/content/04-content/
+
+
+https://youtu.be/doM6HitjGTQ
+PMAP 8141 • (4) Fairness and efficiency: (3) Power and efficiency
+
+Discussion of power and Pareto efficiency
+
+Access the slides and other materials at the course website at https://econs20.classes.andrewheiss.com/content/04-content/
+
+
+https://youtu.be/OAeSbwp2O2I
+PMAP 8141 • (4) Fairness and efficiency: (4) Rawlsian fairness
+
+Demonstration of how policies change when considering Rawls's idea of the veil of ignorance
+
+Access the slides and other materials at the course website at https://econs20.classes.andrewheiss.com/content/04-content/
+
+https://youtu.be/nKVLV3U6ga0
+PMAP 8141 • (4) Fairness and efficiency: (5) Fairness
+
+Discussion of different ideas of fairness, equity, justice, and the role social and cultural norms play in shaping what we think is fair
+
+Access the slides and other materials at the course website at https://econs20.classes.andrewheiss.com/content/04-content/
+```
