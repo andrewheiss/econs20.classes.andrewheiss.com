@@ -12,21 +12,24 @@ nord_purple <- "#B48EAD"  # nord15
 nord_lt_blue <- "#81A1C1"  # nord9
 nord_dk_blue <- "#5E81AC"  # nord10
 
-theme_econ <- function(base_size = 11, base_family = "Roboto Condensed", axis_line = FALSE) {
-  update_geom_defaults("label", list(family = "Roboto Condensed Light"))
-  update_geom_defaults("text", list(family = "Roboto Condensed Light"))
+update_geom_defaults("text", list(family = "IBM Plex Sans Condensed SemiBold"))
+update_geom_defaults("label", list(family = "IBM Plex Sans Condensed SemiBold"))
+
+theme_econ <- function(base_size = 11, base_family = "IBM Plex Sans Condensed", axis_line = FALSE) {
+  update_geom_defaults("label", list(family = "IBM Plex Sans Condensed Light"))
+  update_geom_defaults("text", list(family = "IBM Plex Sans Condensed Light"))
   
   ret <- theme_bw(base_size, base_family) +
     theme(axis.title.y = element_text(margin = margin(r = 10)),
           axis.title.x = element_text(margin = margin(t = 10)),
           plot.title = element_text(size = rel(1.4), 
-                                    family = "Roboto Condensed Bold", face = "plain"),
+                                    family = "IBM Plex Sans Condensed SemiBold", face = "plain"),
           plot.subtitle = element_text(size = rel(1),
-                                       family = "Roboto Condensed Light", face = "plain"),
+                                       family = "IBM Plex Sans Condensed Light", face = "plain"),
           plot.caption = element_text(size = rel(0.8), color = "grey50",
-                                      family = "Roboto Condensed Light", face = "plain"),
+                                      family = "IBM Plex Sans Condensed Light", face = "plain"),
           strip.text = element_text(size = rel(1), 
-                                    family = "Roboto Condensed Bold", face = "plain"),
+                                    family = "IBM Plex Sans Condensed SemiBold", face = "plain"),
           legend.title = element_text(size = rel(0.8)),
           panel.border = element_blank(), 
           axis.ticks = element_blank(),
